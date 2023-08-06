@@ -1,0 +1,8 @@
+
+"ixrfrp"
+{
+	"base" 			"helix"
+	"title" 		"Red Faction RP"
+	"author" 		"Aspect™"
+	"menusystem"	"1"
+}
