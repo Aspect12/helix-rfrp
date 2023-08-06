@@ -7,7 +7,7 @@ SWEP.SlotPos = 5
 SWEP.DrawAmmo = false
 SWEP.DrawCrosshair = false
 
-SWEP.Category = "HL2 RP"
+SWEP.Category = "RF RP"
 SWEP.Author = "Chessnut & Aspect™"
 SWEP.Instructions = "Primary Fire: Bash.\nSecondary Fire (Lowered): Push/Knock.\nSecondary Fire (Raised) Stun."
 SWEP.Purpose = "Bashing, stunning, and pushing things."
